@@ -1,0 +1,1 @@
+{"firstName":"Faahim","lastName":"Mohammad","gender":"male","userName":"faahim","password":"1234","present_address":"Dhaka","parmanent_address":"Dhaka","phone":"01780380603","contact_email":"mdzif777@gmail.com","website_link":"www.google.com","birthday":"2021-05-31","religion":"Muslim"}
